@@ -28,7 +28,7 @@ A visually stunning **Todo List App** built with **React** and **Tailwind CSS**.
 
 ```bash
 # 1. Clone the repository
-git clone git@github-work:thecreativecoder07/to-do-list.git
+git clone https://github.com/thecreativecoder07/to-do-list.git
 
 # 2. Navigate into the project folder
 cd to-do-list
